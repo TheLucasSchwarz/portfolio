@@ -6,6 +6,16 @@ I'm Lucas Schwarz, a passionate data enthusiast with a background in Political S
 
 Explore my portfolio to witness my approach to various challenges, including statistical modeling, classification tasks, network analysis, and data storytelling. Whether analyzing voter potentials in data-driven campaigning contexts, examining communication strategies of political candidates across platforms, or assessing the impact of tax systems on equality, each project underscores my commitment to delivering impactful insights within the realm of political data analysis.
 
+##Overview:
+| Project | Year | Status | Code provided |
+|---|----|---|---|
+| [01 - Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
+| [02 - Dynamics in televised election debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
+| [03 - Position becomes emotion? - Affective polarization in comparative perspective](#03---position-becomes-emotion---affective-polarization-in-comparative-perspective-2023) | 2023  | finished  | no |
+| [04 - Analyzing political communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | yes | 
+| [05 - From Tax to Equality]()  |  2024  | finished | yes | 
+| [06 - Economic causes of populist voting behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
+
 <!-- Feel free to delve into the code, explore the methodologies employed, and engage with the insights generated. I invite you to embark on this journey through the captivating world of data projects in Political Science, where each dataset harbors the potential for discovery and innovation. -->
 
 Happy exploring!
@@ -31,7 +41,7 @@ The central result is that, triggered by the political proximity of the Greens a
 
 *As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.*
 
-## 03 - Position becomes emotion? (2023)
+## 03 - Position becomes emotion? - Affective polarization in comparative perspective (2023)
 This group project investigated the causes of emotional (affective) political polarization between voters. The focus was on the extent to which individual ideological dispositions affect affective polarization and the extent to which this relationship is moderated by different campaign contexts. To this end, multiple linear multi-level regression models were calculated on the basis of an expert survey and individual data from over 25 countries. 
 
 With the help of cross-level interaction effects between the context variable of the negativity of the election campaign and the individual ideological extremism of a respondent, the following could be determined, among other things: In particularly negative campaign contexts (countries), significant differences in individual levels of affective polarization occurred depending on how ideologically extreme a person is.
