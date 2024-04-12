@@ -9,7 +9,7 @@ Explore my portfolio to witness my approach to various challenges, including sta
 Happy exploring!
 
 **Project Overview:**
-|| Projects | Year | Status | Code provided |
+|| :Projects | Year | Status | Code provided |
 |--:|---|:---:|:---:|:---:|
 |01| [Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
 |02| [Dynamics in televised election debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
