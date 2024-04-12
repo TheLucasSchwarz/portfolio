@@ -16,7 +16,7 @@ Explore my portfolio to witness my approach to various challenges, including sta
 | [05 - From Tax to Equality]()  |  2024  | finished | yes | 
 | [06 - Economic causes of populist voting behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
 
-Feel free to delve into the code, explore the methodologies employed, and engage with the insights generated. I invite you to embark on this journey through the captivating world of data projects in Political Science, where each dataset harbors the potential for discovery and innovation.
+Feel free to delve into the code, explore the methodologies employed, and engage with the insights generated. I invite you to embark on this journey through the captivating world of data projects in Political Science, where each dataset harbors the potential to discover ne knowledge and insights.
 
 Happy exploring!
 
