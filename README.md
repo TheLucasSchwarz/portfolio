@@ -7,7 +7,7 @@ I'm Lucas Schwarz, a passionate data enthusiast with a background in Political S
 Explore my portfolio to witness my approach to various challenges, including statistical modeling, classification tasks, network analysis, and data storytelling. Whether analyzing voter potentials in data-driven campaigning contexts, examining communication strategies of political candidates across platforms, or assessing the impact of tax systems on equality, each project underscores my commitment to delivering impactful insights within the realm of political data analysis.
 
 **Project Overview:**
-| Project | Year | Status | Code provided |
+|| Project | Year | Status | Code provided |
 |--:|---|:---:|:---:|:---:|
 |01| [Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
 |02| [Dynamics in televised election debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
