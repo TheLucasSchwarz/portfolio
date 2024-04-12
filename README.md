@@ -14,8 +14,8 @@ Happy exploring!
 |01| [Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
 |02| [Dynamics in televised election debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
 |03| [Position becomes emotion? - Affective polarization in comparative perspective](#03---position-becomes-emotion---affective-polarization-in-comparative-perspective-2023) | 2023  | finished  | no |
-|04| [Analyzing political communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | yes | 
-|05| [From Tax to Equality]()  |  2024  | finished | yes | 
+|04| [Analyzing political communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | planned | 
+|05| [From Tax to Equality]()  |  2024  | finished | planned | 
 |06| [Economic causes of populist voting behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
 
 > [!IMPORTANT]
