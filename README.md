@@ -1,5 +1,4 @@
 ![Alt text](./img/header1.svg)
-___
 
 Welcome to my Data Portfolio! 
 
