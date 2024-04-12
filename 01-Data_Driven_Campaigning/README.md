@@ -7,6 +7,4 @@ The analyses were carried out using Stata on the basis of the GLES tracking indi
 
 The project won first place in the competition with the other teams. 
 
-Translated with www.DeepL.com/Translator (free version)
-
 
