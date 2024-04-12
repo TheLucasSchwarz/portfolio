@@ -10,7 +10,7 @@ Feel free to delve into the code, explore the methodologies employed, and engage
 
 Happy exploring!
 
-## 01 - Data Driven Campaigning (2023)
+## [01 - Data Driven Campaigning (2023)](https://github.com/TheLucasSchwarz/portfolio/tree/main/01-Data_Driven_Campaigning)
 In a group project we conducted extensive data analyses to plan a fictitious German federal election campaign for B90/The Greens, utilizing multinomial logistic regression models among other techniques.
 
 ## 02 - Dynamics in televised election debates (2022)
