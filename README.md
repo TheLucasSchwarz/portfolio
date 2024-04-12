@@ -18,9 +18,12 @@ Explore my portfolio to witness my approach to various challenges, including sta
 
 Feel free to delve into the code, explore the methodologies employed, and engage with the insights generated. I invite you to embark on this journey through the captivating world of data projects in Political Science, where each dataset harbors the potential to discover ne knowledge and insights.
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 Happy exploring!
 
-> [!Caution] Work in progress:
+> [!IMPORTANT] Work in progress
 > Be aware that this portfolio is still in progress. If there is something missing or you have any questions, feel free to contact me. I am happy to provide more information or insights into my projects.
 
 ## [01 - Data Driven Campaigning (2023)](https://github.com/TheLucasSchwarz/portfolio/tree/main/01-Data_Driven_Campaigning)
