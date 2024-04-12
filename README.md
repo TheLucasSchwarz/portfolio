@@ -29,9 +29,6 @@ I then quantitatively evaluated the counted categories, developed my own communi
 The central result is that, triggered by the political proximity of the Greens and the SPD, Armin Laschet was the focal point of all debates. Baerbock's attacks were mainly directed at him, while Scholz focused primarily on himself and only sometimes responded to Laschet's attacks.
 
 As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.
- 
-
-Translated with www.DeepL.com/Translator (free version)
 
 ## 03 - Position becomes emotion? (2023)
 In another group project we explored the connection between societal polarization and negative campaign rhetoric employing multi-level regression models, with expert data on negative campaigning and Europe-wide individual data.
