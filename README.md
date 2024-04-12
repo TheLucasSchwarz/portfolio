@@ -16,17 +16,12 @@ Explore my portfolio to witness my approach to various challenges, including sta
 | [05 - From Tax to Equality]()  |  2024  | finished | yes | 
 | [06 - Economic causes of populist voting behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
 
-Feel free to delve into the code, explore the methodologies employed, and engage with the insights generated. I invite you to embark on this journey through the captivating world of data projects in Political Science, where each dataset harbors the potential to discover ne knowledge and insights.
-
-Happy exploring!
-
 > [!IMPORTANT]
 > Be aware that this portfolio is still in progress. If there is something missing or you have any questions, feel free to contact me. I am happy to provide more information or insights into my projects.
 
-Happy exploring!
+Feel free to delve into the code, explore the methodologies employed, and engage with the insights generated. I invite you to embark on this journey through the captivating world of data projects in Political Science, where each dataset harbors the potential to discover ne knowledge and insights.
 
-> [!IMPORTANT] Work in progress
-> Be aware that this portfolio is still in progress. If there is something missing or you have any questions, feel free to contact me. I am happy to provide more information or insights into my projects.
+Happy exploring!
 
 ## [01 - Data Driven Campaigning (2023)](https://github.com/TheLucasSchwarz/portfolio/tree/main/01-Data_Driven_Campaigning)
 <img src="./img/p1_img1.svg" alt="drawing" width="600"/>
