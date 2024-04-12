@@ -51,6 +51,8 @@ With the help of cross-level interaction effects between the context variable of
 
 It can be concluded from this that excessively negative communication on the part of political elites can certainly reinforce social division processes.
 
+*As this is a team project, I do not wish to publish more detailed results and graphics.*
+
 ## 04 - Analyzing political communication on Twitter with NLP (2024)
 This project, which is currently being implemented, aims to use natural language processing to analyze over 330,000 self-collected tweets from all Bundestag candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
 
