@@ -20,7 +20,7 @@ Feel free to delve into the code, explore the methodologies employed, and engage
 
 Happy exploring!
 
-> [!tip] Work in progress:
+> [!Caution] Work in progress:
 > Be aware that this portfolio is still in progress. If there is something missing or you have any questions, feel free to contact me. I am happy to provide more information or insights into my projects.
 
 ## [01 - Data Driven Campaigning (2023)](https://github.com/TheLucasSchwarz/portfolio/tree/main/01-Data_Driven_Campaigning)
