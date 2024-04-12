@@ -1,6 +1,5 @@
-![Alt text](./img/header.svg)
-<img src="./header.svg.svg">![Alt text](./img/header.svg)
-<img src="./header.svg.svg">
+![Alt text](./img/header1.svg)
+<img src="./header1.svg">
 
 # Portfolio
 
