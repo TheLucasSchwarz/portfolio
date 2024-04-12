@@ -34,7 +34,11 @@ The central result is that, triggered by the political proximity of the Greens a
 In another group project we explored the connection between societal polarization and negative campaign rhetoric employing multi-level regression models, with expert data on negative campaigning and Europe-wide individual data.
 
 ## 04 - Analyzing political communication on Twitter with NLP (2024)
-Utilizing PyTorch, pre-trained XLM-Ro-BERTa-Large models, and specially trained SpaCy models, I am currently analyzing political communication patterns in over 330,000 tweets from the 2021 German parliamentary election campaign. Stay tuned for updates on the insights and findings as this project progresses.
+This project, which is currently being implemented, aims to use natural language processing to analyze over 330,000 self-collected tweets from all Bundestag candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
+
+First, I have just classified all tweets according to their political content in PyTorch for a term paper using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
+
+In the second part of my master thesis, I will train and deploy my own model for the classification of negative campaigning based on the tweets using SpaCy. The final goal is to analyze all classified tweets for determinants and dynamics of campaign communication using network analysis and regression models. 
 
 ## 05 - From Tax to Equality (2024)
 I investigated the impact of diverse tax policies on wealth inequality by analyzing macro-country data sourced from various reputable outlets. Employing a multiple linear fixed-effects panel model, I scrutinized data spanning over 25 OECD countries and approximately 25 years. This approach allowed for a comprehensive understanding of the intricate relationship between tax policies and wealth distribution dynamics.
