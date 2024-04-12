@@ -40,9 +40,7 @@ The project won first place in the competition with the other teams.
 ## 02 - Dynamics in Televised Election Debates (2022)
 The project was my bachelor thesis, in which I first analyzed all three TV debates for the 2021 German federal election qualitatively according to my own coding scheme for the communication of candidates in TV debates.
 
-I then quantitatively evaluated the counted categories, developed my own communication typology based on the results and analyzed the dynamics of the actors in R. The thickness of the lines and circles in the graph above reflects the percentage frequency of the strategy.
-
-The central result is that, triggered by the political proximity of the Greens and the SPD, Armin Laschet was the focal point of all debates. Annalena Baerbock's attacks were mainly directed at him, while Olaf Scholz focused primarily on himself and only sometimes responded to Laschet's attacks.
+I then quantitatively evaluated the counted categories, developed my own communication typology based on the results and analyzed the dynamics of the actors in R. The central result is that, triggered by the political proximity of the Greens and the SPD, Armin Laschet was the focal point of all debates. Annalena Baerbock's attacks were mainly directed at him, while Olaf Scholz focused primarily on himself and only sometimes responded to Laschet's attacks.
 
 *As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.*
 
