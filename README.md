@@ -23,18 +23,18 @@ The project won first place in the competition with the other teams.
 *As this is a team project, I do not wish to publish more detailed results and graphics.*
 
 ## 02 - Dynamics in televised election debates (2022)
-The project was my bachelor thesis, in which I first analyzed all three "TV-trials" for the 2021 federal election qualitatively according to my own coding scheme for the communication of candidates in TV debates.
+The project was my bachelor thesis, in which I first analyzed all three TV debates for the 2021 German federal election qualitatively according to my own coding scheme for the communication of candidates in TV debates.
 
 I then quantitatively evaluated the counted categories, developed my own communication typology based on the results and analyzed the dynamics of the actors in R. The thickness of the lines and circles in the graph above reflects the percentage frequency of the strategy.
 
-The central result is that, triggered by the political proximity of the Greens and the SPD, Armin Laschet was the focal point of all debates. Baerbock's attacks were mainly directed at him, while Scholz focused primarily on himself and only sometimes responded to Laschet's attacks.
+The central result is that, triggered by the political proximity of the Greens and the SPD, Armin Laschet was the focal point of all debates. Annalena Baerbock's attacks were mainly directed at him, while Olaf Scholz focused primarily on himself and only sometimes responded to Laschet's attacks.
 
 *As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.*
 
 ## 03 - Position becomes emotion? (2023)
 This group project investigated the causes of emotional (affective) political polarization between voters. The focus was on the extent to which individual ideological dispositions affect affective polarization and the extent to which this relationship is moderated by different campaign contexts. To this end, multiple linear multi-level regression models were calculated on the basis of an expert survey and individual data from over 25 countries. 
 
-With the help of cross-level interaction effects between the context variable of the negativity of the election campaign and the individual ideo-logical extremism of a respondent, the following could be determined, among other things: In particularly negative campaign contexts (countries), significant differences in individual levels of affective polarization occurred depending on how ideologically extreme a person is.
+With the help of cross-level interaction effects between the context variable of the negativity of the election campaign and the individual ideological extremism of a respondent, the following could be determined, among other things: In particularly negative campaign contexts (countries), significant differences in individual levels of affective polarization occurred depending on how ideologically extreme a person is.
 
 It can be concluded from this that excessively negative communication on the part of political elites can certainly reinforce social division processes.
 
