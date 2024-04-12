@@ -11,10 +11,30 @@ Feel free to delve into the code, explore the methodologies employed, and engage
 Happy exploring!
 
 ## [01 - Data Driven Campaigning (2023)](https://github.com/TheLucasSchwarz/portfolio/tree/main/01-Data_Driven_Campaigning)
-In a group project we conducted extensive data analyses to plan a fictitious German federal election campaign for B90/The Greens, utilizing multinomial logistic regression models among other techniques.
+In this group project as part of a seminar on data-based election campaign planning, an election campaign for B90/The Greens was planned for a fictitious federal election in 2023. 
+
+SWOT analyses as well as descriptive and inferential statistical methods were used to determine the strengths and weaknesses as well as the voter potential of the Greens. The election campaign was then planned precisely on the basis of the findings and corresponding election posters were designed.
+
+The analyses were carried out using Stata on the basis of the GLES tracking individual dataset from October 2022. The core of the analysis is the multiple multinomial logistic regression model, in which the probabilities of individual voting decisions were modeled using several variables. For a better understanding, the exemplary selected predicted probabilities plot and studies on various attributions of issue competencies of the parties were also used.
+
+The project won first place in the competition with the other teams. 
+
+As this is a team project, I do not wish to publish more detailed results and graphics.
+
+
+Translated with www.DeepL.com/Translator (free version)
 
 ## 02 - Dynamics in televised election debates (2022)
-I examined communication strategies and dynamics of candidates using specially collected data from TV debates for the 2021 federal election, complemented by network visualizations in R.
+The project was my bachelor thesis, in which I first analyzed all three "TV-trials" for the 2021 federal election qualitatively according to my own coding scheme for the communication of candidates in TV debates.
+
+I then quantitatively evaluated the counted categories, developed my own communication typology based on the results and analyzed the dynamics of the actors in R. The thickness of the lines and circles in the graph above reflects the percentage frequency of the strategy.
+
+The central result is that, triggered by the political proximity of the Greens and the SPD, Armin Laschet was the focal point of all debates. Baerbock's attacks were mainly directed at him, while Scholz focused primarily on himself and only sometimes responded to Laschet's attacks.
+
+As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.
+ 
+
+Translated with www.DeepL.com/Translator (free version)
 
 ## 03 - Position becomes emotion? (2023)
 In another group project we explored the connection between societal polarization and negative campaign rhetoric employing multi-level regression models, with expert data on negative campaigning and Europe-wide individual data.
