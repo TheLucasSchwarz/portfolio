@@ -31,7 +31,11 @@ The central result is that, triggered by the political proximity of the Greens a
 *As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.*
 
 ## 03 - Position becomes emotion? (2023)
-In another group project we explored the connection between societal polarization and negative campaign rhetoric employing multi-level regression models, with expert data on negative campaigning and Europe-wide individual data.
+This group project investigated the causes of emotional (affective) political polarization between voters. The focus was on the extent to which individual ideological dispositions affect affective polarization and the extent to which this relationship is moderated by different campaign contexts. To this end, multiple linear multi-level regression models were calculated on the basis of an expert survey and individual data from over 25 countries. 
+
+With the help of cross-level interaction effects between the context variable of the negativity of the election campaign and the individual ideo-logical extremism of a respondent, the following could be determined, among other things: In particularly negative campaign contexts (countries), significant differences in individual levels of affective polarization occurred depending on how ideologically extreme a person is.
+
+It can be concluded from this that excessively negative communication on the part of political elites can certainly reinforce social division processes.
 
 ## 04 - Analyzing political communication on Twitter with NLP (2024)
 This project, which is currently being implemented, aims to use natural language processing to analyze over 330,000 self-collected tweets from all Bundestag candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
