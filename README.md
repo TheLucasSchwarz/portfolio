@@ -12,11 +12,11 @@ Happy exploring!
 || Projects | Year | Status | Code provided |
 |--:|:---|:---:|:---:|:---:|
 |01| [Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
-|02| [Dynamics in televised election debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
-|03| [Position becomes emotion? - Affective polarization in comparative perspective](#03---position-becomes-emotion---affective-polarization-in-comparative-perspective-2023) | 2023  | finished  | no |
-|04| [Analyzing political communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | planned | 
+|02| [Dynamics in Televised Election Debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
+|03| [Position becomes Emotion? - Affective Polarization in Comparative Perspective](#03---position-becomes-emotion---affective-polarization-in-comparative-perspective-2023) | 2023  | finished  | no |
+|04| [Analyzing Political Communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | planned | 
 |05| [From Tax to Equality](#05---from-tax-to-equality-2024)  |  2024  | finished | planned | 
-|06| [Economic causes of populist voting behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
+|06| [Economic Causes of Populist Voting Behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
 
 > [!IMPORTANT]
 > Be aware that this portfolio is still in progress. If there is something missing or you have any questions, feel free to contact me. I am happy to provide more information or insights.
@@ -37,7 +37,7 @@ The project won first place in the competition with the other teams.
 
 *As this is a team project, I do not wish to publish more detailed results and graphics.*
 
-## 02 - Dynamics in televised election debates (2022)
+## 02 - Dynamics in Televised Election Debates (2022)
 The project was my bachelor thesis, in which I first analyzed all three TV debates for the 2021 German federal election qualitatively according to my own coding scheme for the communication of candidates in TV debates.
 
 I then quantitatively evaluated the counted categories, developed my own communication typology based on the results and analyzed the dynamics of the actors in R. The thickness of the lines and circles in the graph above reflects the percentage frequency of the strategy.
@@ -46,7 +46,7 @@ The central result is that, triggered by the political proximity of the Greens a
 
 *As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.*
 
-## 03 - Position becomes emotion? - Affective polarization in comparative perspective (2023)
+## 03 - Position becomes Emotion? - Affective Polarization in Comparative Perspective (2023)
 This group project investigated the causes of emotional (affective) political polarization between voters. The focus was on the extent to which individual ideological dispositions affect affective polarization and the extent to which this relationship is moderated by different campaign contexts. To this end, multiple linear multi-level regression models were calculated on the basis of an expert survey and individual data from over 25 countries. 
 
 With the help of cross-level interaction effects between the context variable of the negativity of the election campaign and the individual ideological extremism of a respondent, the following could be determined, among other things: In particularly negative campaign contexts (countries), significant differences in individual levels of affective polarization occurred depending on how ideologically extreme a person is.
@@ -55,7 +55,7 @@ It can be concluded from this that excessively negative communication on the par
 
 *As this is a team project, I do not wish to publish more detailed results and graphics.*
 
-## 04 - Analyzing political communication on Twitter with NLP (2024)
+## 04 - Analyzing Political Communication on Twitter with NLP (2024)
 This project, which is currently being implemented, aims to use natural language processing to analyze over 330,000 self-collected tweets from all Bundestag candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
 
 First, I have just classified all tweets according to their political content in PyTorch for a term paper using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
@@ -66,5 +66,5 @@ In the second part of my master thesis, I will train and deploy my own model for
 <img src="./img/p5_img3.svg" alt="drawing" width="800"/>
 I investigated the impact of diverse tax policies on wealth inequality by analyzing macro-country data sourced from various reputable outlets. Employing a multiple linear fixed-effects panel model, I scrutinized data spanning over 25 OECD countries and approximately 25 years. This approach allowed for a comprehensive understanding of the intricate relationship between tax policies and wealth distribution dynamics.
  
-## 06 - Economic causes of populist voting behavior (2022 and 2023)
+## 06 - Economic Causes of Populist Voting Behavior (2022 and 2023)
 In two projects I investigated left-wing and right-wing populist voting behavior in Europe, exploring the role of globalization, welfare states, and individual circumstances through multiple linear and multinomial regression models.
