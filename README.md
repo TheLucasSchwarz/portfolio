@@ -25,7 +25,7 @@ Happy exploring!
 
 Happy exploring! -->
 
-## [01 - Data Driven Campaigning (2023)](https://github.com/TheLucasSchwarz/portfolio/tree/main/01-Data_Driven_Campaigning)
+## 01 - Data Driven Campaigning (2023)
 <img src="./img/p1_img1.svg" alt="drawing" width="600"/>
 In this group project as part of a seminar on data-based election campaign planning, an election campaign for B90/The Greens was planned for a fictitious federal election in 2023. 
 
