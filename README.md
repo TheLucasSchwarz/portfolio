@@ -8,7 +8,7 @@ Explore my portfolio to witness my approach to various challenges, including sta
 
 ## Overview:
 | Project | Year | Status | Code provided |
-|---|----|---|---|
+|---|:---:|:---:|:---:|
 | [01 - Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
 | [02 - Dynamics in televised election debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
 | [03 - Position becomes emotion? - Affective polarization in comparative perspective](#03---position-becomes-emotion---affective-polarization-in-comparative-perspective-2023) | 2023  | finished  | no |
