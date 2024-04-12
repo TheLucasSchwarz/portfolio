@@ -1,3 +1,6 @@
+![Alt text](./img/header.svg)
+<img src="./header.svg.svg">
+
 # Portfolio
 
 Welcome to my Data Portfolio! 
