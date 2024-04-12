@@ -19,7 +19,7 @@ The analyses were carried out using Stata on the basis of the GLES tracking indi
 
 The project won first place in the competition with the other teams. 
 
-As this is a team project, I do not wish to publish more detailed results and graphics.
+*As this is a team project, I do not wish to publish more detailed results and graphics.*
 
 ## 02 - Dynamics in televised election debates (2022)
 The project was my bachelor thesis, in which I first analyzed all three "TV-trials" for the 2021 federal election qualitatively according to my own coding scheme for the communication of candidates in TV debates.
@@ -28,7 +28,7 @@ I then quantitatively evaluated the counted categories, developed my own communi
 
 The central result is that, triggered by the political proximity of the Greens and the SPD, Armin Laschet was the focal point of all debates. Baerbock's attacks were mainly directed at him, while Scholz focused primarily on himself and only sometimes responded to Laschet's attacks.
 
-As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.
+*As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.*
 
 ## 03 - Position becomes emotion? (2023)
 In another group project we explored the connection between societal polarization and negative campaign rhetoric employing multi-level regression models, with expert data on negative campaigning and Europe-wide individual data.
