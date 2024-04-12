@@ -17,7 +17,7 @@ Explore my portfolio to witness my approach to various challenges, including sta
 |06| [Economic causes of populist voting behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
 
 > [!IMPORTANT]
-> Be aware that this portfolio is still in progress. If there is something missing or you have any questions, feel free to contact me. I am happy to provide more information or insights into my projects.
+> Be aware that this portfolio is still in progress. If there is something missing or you have any questions, feel free to contact me. I am happy to provide more information or insights.
 
 Feel free to delve into the code, explore the methodologies employed, and engage with the insights generated. I invite you to embark on this journey through the captivating world of data projects in Political Science, where each dataset harbors the potential to discover ne knowledge and insights.
 
