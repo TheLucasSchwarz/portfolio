@@ -11,13 +11,19 @@ Feel free to delve into the code, explore the methodologies employed, and engage
 Happy exploring!
 
 ## 01 - Data Driven Campaigning (2023)
-On the basis of extensive data analyses on the voter potential of parties, a fictitious federal election campaign for B90/The Greens was planned using multinomial logistic regression models, among other things.
+In a group project we conducted extensive data analyses to plan a fictitious federal election campaign for B90/The Greens, utilizing multinomial logistic regression models among other techniques.
 
 ## 02 - Dynamics in televised election debates (2022)
-The communication strategies and dynamics of the candidates were examined using specially collected data from the TV debates for the 2021 federal election with network visualizations in R.
+I examined communication strategies and dynamics of candidates using specially collected data from TV debates for the 2021 federal election, complemented by network visualizations in R.
 
 ## 03 - Position becomes emotion? (2023)
-With the help of expert data on negative campaigning and Europe-wide individual data, the connection between polarization in society and negative campaign rhetoric was examined using multi-level regression models.
+In another group project we explored the connection between societal polarization and negative campaign rhetoric employing multi-level regression models, with expert data on negative campaigning and Europe-wide individual data.
 
 ## 04 - Analyzing political communication on Twitter with NLP (2024)
-In this current project, PyTorch and pre-trained XLM-Ro-BERTa-Large models as well as specially trained models based on the SpaCy library are used to analyze political communication patterns in over 330,000 tweets from the 2021 German parliamentary election campaign.
+Utilizing PyTorch, pre-trained XLM-Ro-BERTa-Large models, and specially trained SpaCy models, I am currently analyzing political communication patterns in over 330,000 tweets from the 2021 German parliamentary election campaign. Stay tuned for updates on the insights and findings as this project progresses.
+
+## 05 - From Tax to Equality (2024)
+I investigated the impact of diverse tax policies on wealth inequality by analyzing macro-country data sourced from various reputable outlets. Employing a multiple linear fixed-effects panel model, I scrutinized data spanning over 25 OECD countries and approximately 25 years. This approach allowed for a comprehensive understanding of the intricate relationship between tax policies and wealth distribution dynamics.
+ 
+## 06 - Economic causes of populist voting behavior (2022 and 2023)
+In two projects I investigated left-wing and right-wing populist voting behavior in Europe, exploring the role of globalization, welfare states, and individual circumstances through multiple linear and multinomial regression models.
