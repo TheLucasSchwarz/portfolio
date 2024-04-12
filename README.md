@@ -21,9 +21,6 @@ The project won first place in the competition with the other teams.
 
 As this is a team project, I do not wish to publish more detailed results and graphics.
 
-
-Translated with www.DeepL.com/Translator (free version)
-
 ## 02 - Dynamics in televised election debates (2022)
 The project was my bachelor thesis, in which I first analyzed all three "TV-trials" for the 2021 federal election qualitatively according to my own coding scheme for the communication of candidates in TV debates.
 
