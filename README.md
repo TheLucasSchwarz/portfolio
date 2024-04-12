@@ -11,7 +11,7 @@ Feel free to delve into the code, explore the methodologies employed, and engage
 Happy exploring!
 
 ## 01 - Data Driven Campaigning (2023)
-In a group project we conducted extensive data analyses to plan a fictitious federal election campaign for B90/The Greens, utilizing multinomial logistic regression models among other techniques.
+In a group project we conducted extensive data analyses to plan a fictitious German federal election campaign for B90/The Greens, utilizing multinomial logistic regression models among other techniques.
 
 ## 02 - Dynamics in televised election debates (2022)
 I examined communication strategies and dynamics of candidates using specially collected data from TV debates for the 2021 federal election, complemented by network visualizations in R.
