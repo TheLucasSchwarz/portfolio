@@ -14,8 +14,8 @@ Happy exploring!
 |01| [Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
 |02| [Dynamics in Televised Election Debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
 |03| [Position becomes Emotion? - Affective Polarization in Comparative Perspective](#03---position-becomes-emotion---affective-polarization-in-comparative-perspective-2023) | 2023  | finished  | no |
-|04| [Analyzing Political Communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | planned | 
-|05| [From Tax to Equality](#05---from-tax-to-equality-2024)  |  2024  | finished | planned | 
+|04| [Analyzing Political Communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | [yes](https://github.com/TheLucasSchwarz/polcom-twitter-nlp) | 
+|05| [From Tax to Equality](#05---from-tax-to-equality-2024)  |  2024  | finished | [yes](https://github.com/TheLucasSchwarz/taxequality) | 
 |06| [Economic Causes of Populist Voting Behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
 
 > [!IMPORTANT]
@@ -53,14 +53,15 @@ It can be concluded from this that excessively negative communication on the par
 
 *As this is a team project, I do not wish to publish more detailed results and graphics.*
 
-## 04 - Analyzing Political Communication on Twitter with NLP (2024)
+## [04 - Analyzing Political Communication on Twitter with NLP (2024)](https://github.com/TheLucasSchwarz/polcom-twitter-nlp)
+<img src="./img/p4_img1.svg" alt="drawing" width="600"/>
 This project, which is currently being implemented, aims to use natural language processing to analyze over 330,000 self-collected tweets from all Bundestag candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
 
-First, I have just classified all tweets according to their political content in PyTorch for a term paper using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
+First, I have classified all tweets according to their political content with PyTorch using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
 
-In the second part of my master thesis, I will train and deploy my own model for the classification of negative campaigning based on the tweets using SpaCy. The final goal is to analyze all classified tweets for determinants and dynamics of campaign communication using network analysis and regression models. 
+As a second project, I will train and deploy my own model for the classification of negative campaigning based on the tweets using SpaCy. The final goal is to analyze all classified tweets for determinants and dynamics of campaign communication using network analysis and regression models. 
 
-## 05 - From Tax to Equality (2024)
+## 05 - [From Tax to Equality (2024)](https://github.com/TheLucasSchwarz/taxequality)
 <img src="./img/p5_img3.svg" alt="drawing" width="800"/>
 I investigated the impact of diverse tax policies on wealth inequality by analyzing macro-country data sourced from various reputable outlets. Employing a multiple linear fixed-effects panel model, I scrutinized data spanning over 25 OECD countries and approximately 25 years. This approach allowed for a comprehensive understanding of the intricate relationship between tax policies and wealth distribution dynamics.
  
