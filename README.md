@@ -14,7 +14,7 @@ Happy exploring!
 |01| [Data Driven Campaigning](#01---data-driven-campaigning-2023) | 2023 | finished  | no  |
 |02| [Dynamics in Televised Election Debates](#02---dynamics-in-televised-election-debates-2022)  | 2022 | finished | no |
 |03| [Position becomes Emotion? - Affective Polarization in Comparative Perspective](#03---position-becomes-emotion---affective-polarization-in-comparative-perspective-2023) | 2023  | finished  | no |
-|04| [Analyzing Political Communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | planned | 
+|04| [Analyzing Political Communication on Twitter with NLP](#04---analyzing-political-communication-on-twitter-with-nlp-2024) |  2024  | currently in progress  | yes | 
 |05| [From Tax to Equality](#05---from-tax-to-equality-2024)  |  2024  | finished | yes | 
 |06| [Economic Causes of Populist Voting Behavior](#06---economic-causes-of-populist-voting-behavior-2022-and-2023) | 2022 and 2023 | finished | no |
 
@@ -53,7 +53,7 @@ It can be concluded from this that excessively negative communication on the par
 
 *As this is a team project, I do not wish to publish more detailed results and graphics.*
 
-## 04 - Analyzing Political Communication on Twitter with NLP (2024)
+## [04 - Analyzing Political Communication on Twitter with NLP (2024)](https://github.com/TheLucasSchwarz/polcom-twitter-nlp)
 This project, which is currently being implemented, aims to use natural language processing to analyze over 330,000 self-collected tweets from all Bundestag candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
 
 First, I have classified all tweets according to their political content with PyTorch using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
