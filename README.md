@@ -45,7 +45,7 @@ I then quantitatively evaluated the counted categories, developed my own communi
 *As the project is still potentially being submitted to academic journals, I am unfortunately unable to make the code, graphics and more detailed information public at this point.*
 
 ## 03 - Position becomes Emotion? - Affective Polarization in Comparative Perspective (2023)
-<img src="./img/p3_img1.svg" alt="drawing" width="700"/>
+<img src="./img/p3_img1.svg" alt="drawing" width="800"/>
 This group project investigated the causes of emotional (affective) political polarization between voters. The focus was on the extent to which individual ideological dispositions affect affective polarization and the extent to which this relationship is moderated by different campaign contexts. To this end, multiple linear multi-level regression models were calculated on the basis of an expert survey and individual data from over 25 countries. 
 
 With the help of cross-level interaction effects between the context variable of the negativity of the election campaign and the individual ideological extremism of a respondent, the following could be determined, among other things: In particularly negative campaign contexts (countries), significant differences in individual levels of affective polarization occurred depending on how ideologically extreme a person is.
@@ -55,7 +55,7 @@ It can be concluded from this that excessively negative communication on the par
 *As this is a team project, I do not wish to publish more detailed results and graphics.*
 
 ## [04 - Analyzing Political Communication on Twitter with NLP (2024)](https://github.com/TheLucasSchwarz/polcom-twitter-nlp)
-<img src="./img/p4_img1b.svg" alt="drawing" width="700"/>
+<img src="./img/p4_img1.svg" alt="drawing" width="700"/>
 This project, which is currently being implemented, aims to use natural language processing to analyze over 250,000 self-collected tweets from all German Federal Election Candidates (Deutsche Bundestagswahl) candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
 
 First, I have classified all tweets according to their political content with PyTorch using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
