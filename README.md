@@ -55,7 +55,7 @@ It can be concluded from this that excessively negative communication on the par
 
 ## [04 - Analyzing Political Communication on Twitter with NLP (2024)](https://github.com/TheLucasSchwarz/polcom-twitter-nlp)
 <img src="./img/p4_img1.svg" alt="drawing" width="700"/>
-This project, which is currently being implemented, aims to use natural language processing to analyze over 250,000 self-collected tweets from all Bundestag candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
+This project, which is currently being implemented, aims to use natural language processing to analyze over 250,000 self-collected tweets from all German Federal Election Candidates (Deutsche Bundestagswahl) candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
 
 First, I have classified all tweets according to their political content with PyTorch using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
 
