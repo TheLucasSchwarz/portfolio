@@ -60,7 +60,7 @@ First, I have classified all tweets according to their political content with Py
 
 As a second project, I will train and deploy my own model for the classification of negative campaigning based on the tweets using SpaCy. The final goal is to analyze all classified tweets for determinants and dynamics of campaign communication using network analysis and regression models. 
 
-## 05 - [From Tax to Equality (2024)](https://github.com/TheLucasSchwarz/from-tax-to-equality)
+## 05 - [From Tax to Equality (2024)](https://github.com/TheLucasSchwarz/taxequality)
 <img src="./img/p5_img3.svg" alt="drawing" width="800"/>
 I investigated the impact of diverse tax policies on wealth inequality by analyzing macro-country data sourced from various reputable outlets. Employing a multiple linear fixed-effects panel model, I scrutinized data spanning over 25 OECD countries and approximately 25 years. This approach allowed for a comprehensive understanding of the intricate relationship between tax policies and wealth distribution dynamics.
  
