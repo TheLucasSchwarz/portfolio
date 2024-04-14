@@ -27,7 +27,7 @@ Happy exploring! -->
 
 ## 01 - Data Driven Campaigning (2023)
 <img src="./img/p1_img1.svg" alt="drawing" width="600"/>
-In this group project as part of a seminar on data-based election campaign planning, an election campaign for B90/The Greens was planned for a fictitious federal election in 2023. 
+In this group project as part of a seminar on data-driven election campaigning, an election campaign for B90/The Greens was planned for a fictitious federal election in 2023. 
 
 SWOT analyses as well as descriptive and inferential statistical methods were used to determine the strengths and weaknesses as well as the voter potential of the Greens. The election campaign was then planned precisely on the basis of the findings and corresponding election posters were designed.
 
