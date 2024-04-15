@@ -27,7 +27,7 @@ Happy exploring! -->
 
 ## 01 - Data Driven Campaigning (2023)
 <img src="./img/p1_img1.svg" alt="drawing" width="600"/>
-In this group project as part of a seminar on data-based election campaign planning, an election campaign for B90/The Greens was planned for a fictitious federal election in 2023. 
+In this group project as part of a seminar on data-driven election campaigning, an election campaign for B90/The Greens was planned for a fictitious federal election in 2023. 
 
 SWOT analyses as well as descriptive and inferential statistical methods were used to determine the strengths and weaknesses as well as the voter potential of the Greens. The election campaign was then planned precisely on the basis of the findings and corresponding election posters were designed.
 
@@ -56,7 +56,7 @@ It can be concluded from this that excessively negative communication on the par
 
 ## [04 - Analyzing Political Communication on Twitter with NLP (2024)](https://github.com/TheLucasSchwarz/polcom-twitter-nlp)
 <img src="./img/p4_img1.svg" alt="drawing" width="700"/>
-This project, which is currently being implemented, aims to use natural language processing to analyze over 250,000 self-collected tweets from all German Federal Election Candidates (Deutsche Bundestagswahl) candidates represented on Twitter (X) in 2021. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
+This currently running project aims to use natural language processing to analyze over 250,000 self-collected tweets from all German Federal Election (Deutsche Bundestagswahl) candidates represented on Twitter (X) in 2021. The tweets were collected in 2022 with the twitteR package via Twitter Academic Developer Access. The project is split into two parts and training/deployment runs via the Google Cloud Platform (GCP):
 
 First, I have classified all tweets according to their political content with PyTorch using the already pre-trained manifestoberta model. These will now be analyzed with logistic multi-level regressions to examine the determinants of specific content across the election campaign. Manifestoberta is based on the multilingual XLM-RoBERTa-Large models, which were tuned on all annotated statements in the text corpus of the MANIFESTO project.
 
